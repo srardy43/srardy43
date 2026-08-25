@@ -1,16 +1,22 @@
-## Hi there 👋
+# Yo gang 👊
 
-<!--
-**srardy43/srardy43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm [tu nombre]. Just a small developer learning the game step by step, building my portfolio website from scratch.
 
-Here are some ideas to get you started:
+## What I'm about
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Currently learning web development
+- 💻 Working on my portfolio project
+- 🔧 Always trying to level up my skills
+- 📚 Taking it one commit at a time
+
+## Current grind
+
+Right now I'm focused on building my portfolio website to showcase what I've learned so far. Still new to this world, but I'm here to put in the work and grow.
+
+## Let's connect
+
+Hit me up if you wanna collab or just chat about code!
+
+---
+
+*No cap, just grindin' 🔥*
