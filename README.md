@@ -11,4 +11,4 @@ Hey, I'm ardy. Just a small developer learning step by step, building my portfol
 
 ## Now interested
 
-now im interested on still learning about developing webs and cybersecurity and being a sysadmin in the future! 
+now im interested on still learning about developing webs and cybersecurity for being a sysadmin in the future! if u wanna see my actual jobs click in the link of my pf
